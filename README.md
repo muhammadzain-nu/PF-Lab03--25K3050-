@@ -1,2 +1,17 @@
-I'm MUhammad Zain from BSE-1A section.
-I Joined FAST University in software engineering with an interest of developing programs and learning codes.
+#One Heading#
+
+1. This
+2. Is
+3. Ordered
+4. List
+   
+- This 
+- Is
+  - Nested
+  - List
+* Unordered
++ List
+
+**This text is bold**\
+*This text is italic*\
+***This text is both bold and italics***\
